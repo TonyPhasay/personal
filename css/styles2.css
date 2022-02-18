@@ -1,0 +1,48 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #66BFBF;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 80px auto;
+}
+
+.hobbies{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+  margin:auto;
+}
+
+.Sherlock {
+  margin: 100px auto;
+}
+
+.mission {
+  margin: 100px auto;
+}
+
+.steve {
+  width: 20%
+}
+
+.laos {
+  width: 20%
+}
+
+.wink {
+  width: 10%;
+  float: right;
+}
+
+.flirts {
+  width: 10%;
+}
