@@ -82,13 +82,13 @@ a {
 }
 
 .web-icon {
-  width:35%;
+  width:30%;
   float:left;
   margin-right: 30px;
 }
 
 .japanese {
-  width:250px;
+  width:200px;
   float: right;
   margin-left: 30px;
 }
@@ -157,3 +157,4 @@ a {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
