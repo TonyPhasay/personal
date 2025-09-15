@@ -33,7 +33,7 @@ hr {
 }
 
 p {
-    line-height: 2;
+    line-height: 1.75;
 }
 
 a {
@@ -82,7 +82,7 @@ a {
 }
 
 .web-icon {
-  width:30%;
+  width:25%;
   float:left;
   margin-right: 30px;
 }
